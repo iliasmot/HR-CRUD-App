@@ -1,0 +1,2 @@
+exe command: pyinstaller --onefile --windowed --add-data "Forest-ttk-theme-master;Forest-ttk-theme-master" mnemosyne.py
+
